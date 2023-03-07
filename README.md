@@ -4,7 +4,7 @@ Hi 👋 My name is Marili
 Data Scientist
 --------------
 
-I used to be a psciologist now I'm passionate about statistics and programming, in specific Data Science, I'm plenty sure my best decision since last two year. I'm currently working on Maru an app where you can analyze videos on streaming.
+I used to be a psciologist now I'm passionate about statistics and programming, in specific Data Science, I'm plenty sure my best decision since last two years. I'm currently working on Maru an app where you can analyze videos on streaming.
 
 * 🌍  I'm based in Costa Ricaa
 * ✉️  You can contact me at [mariliqy05@gmail.com](mailto:mariliqy05@gmail.com)
